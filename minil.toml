@@ -1,0 +1,4 @@
+name = "Net-SSU"
+# badges = ["travis"]
+module_maker="ModuleBuildTiny"
+
